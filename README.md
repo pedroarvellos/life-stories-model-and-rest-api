@@ -1,7 +1,7 @@
 # lifeStoriesRestAPI
 
-Life Stories is a social and educational application related to the elderly people and students which are eager to learn any language. As of this application, any student in the world is able to look for an elderly person which is in a long stay institution and, as the student demonstrates care and atention towards the elderly, the language spoken by the very one will be learned through the most natural way, it means, a expected enjoyable and productive conversation. 
+LifeStories is a social and educational application related to link between the elderly people and students which are eager to learn any language. As a result of this application, any student in the world is able to look for an elderly person which is in a long stay institution. As the student demonstrates care and attention towards the elderly, the language spoken by this very same aged person, which now has tutor position, will be progresively learned by the student through the most natural way, it means, an expected enjoyable and productive conversation. 
 
-This repository is related to the Spring boot REST based API which is represents the Model and Web endepoint.  
+This repository represents the Spring Boot REST based API which is the LifeStories Model and Web endpoint.  
 
 The application was created by Pedro Arvellos, José Maurício, Joao Pedro and Marcelo Augusto. 
