@@ -16,8 +16,8 @@ How to execute this project:
 
 #### This project was developed through the Netbeans IDE and Postgres Database. Please, follow the requeriments to execute it:
 
-• Clone this repository;
-• Open this very project in your Netbeans IDE;
+- Clone this repository;
+- Open this very project in your Netbeans IDE;
 • Take the Database Creation SCRIPT in the folder SQL (there're also some other scripts), and create the Database on Postgres;
 • Construct it with its dependencies;
 • Run it;
