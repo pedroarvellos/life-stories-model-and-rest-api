@@ -18,6 +18,7 @@ How to execute this project:
 
 • Clone this repository;
 • Open this very project in your Netbeans IDE;
+• Take the Database Creation SCRIPT in the folder SQL (there're also some other scripts), and create the Database on Postgres;
 • Construct it with its dependencies;
 • Run it;
 • Access the address: <context>/swagger-ui.html;
