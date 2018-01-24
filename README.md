@@ -14,7 +14,7 @@ The application was created by Pedro Arvellos, José Maurício, Joao Pedro and M
 
 How to execute this project:
 
-## This project was developed through the Netbeans IDE and Postgres Database. Please, follow the requeriments to execute it:
+#### This project was developed through the Netbeans IDE and Postgres Database. Please, follow the requeriments to execute it:
 
 • Clone this repository;
 • Open this very project in your Netbeans IDE;
